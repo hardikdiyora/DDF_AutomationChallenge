@@ -1,6 +1,7 @@
 # DDF_UIAutomation
 
 ### Example of Data Driven Concept with POM using JAVA,TestNG,Selenium etc.
+## NOTE : This is developed using specific example website's behaviours. 
 
 ## Steps:
 1. Clone the code.
